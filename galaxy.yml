@@ -5,3 +5,4 @@ license: gplv3+
 name: cloud_vmware
 namespace: ansiblemove
 version: '1.0'
+readme: no
