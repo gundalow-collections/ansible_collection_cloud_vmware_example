@@ -1,0 +1,7 @@
+authors: testing core
+description: test cloud_vmware collection migrated from core
+documentation: we hope
+license: gplv3+
+name: cloud_vmware
+namespace: ansiblemove
+version: '1.0'
